@@ -1,0 +1,21 @@
+{
+  "name": "HTML",
+  "homepage": "https://github.com/diogo-andrade-rotta/criando-site-teste",
+  "authors": [
+    "Diogo Andrade <diogo@rotta.digital>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
